@@ -1,0 +1,21 @@
+What is repository??
+Repository is a storage location of centralized data or source code files. By using repository more than one developer can work in one project.
+With the help of repository each developer mange easily the details of comments and their activities or access those files would have been the change.
+
+Git and git hub are two different things.
+Git:-
+       Git is a source code management system or a software. Today there are some also other management system are available that are used.
+for example TCF (Team Foundation Server) is the product of Microsoft and the SVN (subversion) is the apache product.
+There are many features of software code management system like files and track the change of those files, compare the code, versioning, branching, merge the branch, compare branch etc etc.
+Git software approximately available for all plate forms .we can install git on window operating system and we can run git comments on command line means CMD or when install git it has own command line tool that also be called git bash.
+
+What is Git hub:
+ Git hub is the way best git repository hosting service. When we install git in our system than we find all locally repository feature but the storage of the system is not centralized with our system. So according to this situation we use remote get repository for example git hub. In use of git the repository are locally stored in system of all developers.  One is centralized where we to do sink all the changes of local repository. So that all local changes  are updated on centralized. when we develop a private software than we take license for centralized hosting (git hub).
+ Git and git hub both are freely available so that we can develop a open source software. when we develop open source software and then store on  git hub so that connect the other developers so in this case wo have management role in which we can reject or accept the changes in code.
+
+ 
+                
+
+
+
+ 
